@@ -202,7 +202,7 @@ function sendResult(message: Message) {
     "Reading: "    +   user.reading + '\n' + 
     'Speaking: '   +   user.speaking + '\n'+ 
     'Writing: '    +   user.writing + '\n' + '\n' +
-    'Overall: '    +   4.5 )
+    'Overall: '    +   4.5 + '\n\nQayta hisoblash uchun /start bosing!')
     
     
     user.state = 0
