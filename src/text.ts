@@ -1,0 +1,1 @@
+export const salom = (name: string) => `Salom ${name}. Bu bot IELTS ballarini hisoblaydi.`
